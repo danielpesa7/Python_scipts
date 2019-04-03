@@ -1,3 +1,11 @@
+'''
+    File name: data_extract.py
+    Author: Daniel G Perico Sánchez
+    Date created: 21/01/2019
+    Date last modified: 23/01/2019
+    Python Version: 3.7.2
+'''
+
 #Import the needed libraries
 from bs4 import BeautifulSoup
 import requests
