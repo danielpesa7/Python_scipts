@@ -1,3 +1,11 @@
+'''
+    File name: data_extract.py
+    Author: Daniel G Perico Sánchez
+    Date created: 15/01/2019
+    Date last modified: 15/01/2019
+    Python Version: 3.7.2
+'''
+
 #Este ejercicio nace de un juego propuesto por DataCamp, el cual consiste en:
 ## Estamos en el piso 0 de un gran edificio, queremos llegar al piso 60 y nuestro movimiento dentro del 
 ## edificio está determinado por un dado que lanzaremos 100 veces de la siguiente forma:
